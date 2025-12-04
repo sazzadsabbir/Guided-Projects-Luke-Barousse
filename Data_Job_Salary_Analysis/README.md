@@ -41,3 +41,22 @@ It includes detailed information on:
   - 🛠️ data_job_skills
      
 <img width="327" height="566" alt="Data_Job_Skill_Properties" src="https://github.com/user-attachments/assets/c3e8749e-fdcc-417b-b012-dcb1ddda90d1" />
+
+#### 🔗 Load
+- Finally, I loaded both transformed queries into the workbook, setting the foundation for my subsequent analysis.
+  - 📊 data_jobs_salary
+
+<img width="1897" height="938" alt="Data_Job_Salary" src="https://github.com/user-attachments/assets/16ed204f-72c1-4e22-b117-6c8ef523657b" />
+
+- 🛠️ data_job_skills
+<img width="1891" height="857" alt="Data_Job_Skills" src="https://github.com/user-attachments/assets/6bbddb81-ec0a-482c-b0df-b3fa62e30d87" />
+
+### 📊 Analysis
+#### 💡 Insights
+
+- 📈 There is a positive correlation between the number of skills requested in job postings and the median salary, particularly in roles like Senior Data Engineer and Data Scientist.
+- 💼 Roles that require fewer skills, like Business Analyst, tend to offer lower salaries, suggesting that more specialized skill sets command higher market value.
+<img width="741" height="453" alt="Salary VS Skills" src="https://github.com/user-attachments/assets/d926623c-b694-490f-b734-05fc14248959" />
+
+#### 🤔 So What
+- This trend emphasizes the value of acquiring multiple relevant skills, particularly for individuals aiming for higher-paying roles.
